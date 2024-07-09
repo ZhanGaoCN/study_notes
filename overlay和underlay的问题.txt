@@ -1,0 +1,3 @@
+关于overlay和underlay的新理解：
+underlay处理所有收到的包，因为是光纤直连
+overlay需要处理distip是本节点的包，其他的不管。因为是逻辑链路，涉及到路由方式
